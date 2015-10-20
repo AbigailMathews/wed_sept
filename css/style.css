@@ -1,0 +1,30 @@
+* {
+    list-style-type: none;
+}
+
+li {
+    margin: 10px 0;
+}
+
+.resource-box {
+    background-color: lightgray;
+    border: 10px solid white;
+    padding: 20px 30px;
+}
+
+.resource-box img {
+    border-radius: 10px;
+    box-shadow: 2px 5px 5px #225;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.article {
+    font-size: 1.2em;
+    color: cornflowerblue;
+}
+
+.article:hover {
+    text-decoration: none;
+    color: orange;
+}
